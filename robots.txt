@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://dimarus222.github.io/ZlKonstantin/sitemap.xml

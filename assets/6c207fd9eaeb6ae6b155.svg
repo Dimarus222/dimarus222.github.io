@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+<defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff4b0"/><stop offset=".28" stop-color="#e0b85c"/><stop offset=".55" stop-color="#8f5c21"/><stop offset=".78" stop-color="#ffdc80"/><stop offset="1" stop-color="#9b641f"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset=".35" stop-color="#8faec5"/><stop offset=".65" stop-color="#e8f4ff"/><stop offset="1" stop-color="#42566f"/></linearGradient>
+ <radialGradient id="gem" cx="30%" cy="22%" r="82%"><stop stop-color="#e4f5ff"/><stop offset=".42" stop-color="#428bd8"/><stop offset="1" stop-color="#07101e"/></radialGradient>
+ <filter id="glow" x="-55%" y="-55%" width="210%" height="210%"><feGaussianBlur stdDeviation="3.1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g filter="url(#glow)"><rect x="22" y="28" width="84" height="79" rx="9" fill="#0b1d30" stroke="url(#gold)" stroke-width="3.4"/><rect x="27" y="37" width="74" height="14" rx="3" fill="#2469a4" stroke="#9ddaff" stroke-width="1.1"/><path d="M40 17v22 M88 17v22" stroke="url(#gold)" stroke-width="6" stroke-linecap="round"/><g fill="#a4dfff" stroke="#e9f7ff" stroke-width="1"><rect x="35" y="59" width="12" height="10" rx="2"/><rect x="57" y="59" width="12" height="10" rx="2"/><rect x="79" y="59" width="12" height="10" rx="2"/><rect x="35" y="79" width="12" height="10" rx="2"/><rect x="57" y="79" width="12" height="10" rx="2"/><rect x="79" y="79" width="12" height="10" rx="2"/></g><path d="M41 64h0 M63 64h0 M85 64h0" stroke="#12334e" stroke-width="4"/></g>
+</svg>

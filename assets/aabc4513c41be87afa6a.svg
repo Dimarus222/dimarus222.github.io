@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+<defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff4b0"/><stop offset=".28" stop-color="#e0b85c"/><stop offset=".55" stop-color="#8f5c21"/><stop offset=".78" stop-color="#ffdc80"/><stop offset="1" stop-color="#9b641f"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset=".35" stop-color="#8faec5"/><stop offset=".65" stop-color="#e8f4ff"/><stop offset="1" stop-color="#42566f"/></linearGradient>
+ <radialGradient id="gem" cx="30%" cy="22%" r="82%"><stop stop-color="#ebf8ff"/><stop offset=".42" stop-color="#499fff"/><stop offset="1" stop-color="#07101e"/></radialGradient>
+ <filter id="glow" x="-55%" y="-55%" width="210%" height="210%"><feGaussianBlur stdDeviation="3.1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<circle cx="64" cy="64" r="53.5" fill="#07111e" fill-opacity=".60" stroke="url(#gold)" stroke-width="3"/>
+<circle cx="64" cy="64" r="47.5" fill="none" stroke="#499fff" stroke-opacity=".75" stroke-width="1.7"/>
+<circle cx="64" cy="64" r="42" fill="none" stroke="#e7c876" stroke-opacity=".35" stroke-width="1" stroke-dasharray="3 4"/>
+<path d="M64 5 69 13 64 20 59 13Z M64 108 69 115 64 123 59 115Z M5 64 13 59 20 64 13 69Z M108 64 115 59 123 64 115 69Z" fill="url(#gold)" stroke="#ebf8ff" stroke-width=".7"/><path d="M36 44 Q49 28 64 44 Q79 28 92 44 L92 79 Q77 69 64 84 Q51 69 36 79Z" fill="#112d49" stroke="url(#gold)" stroke-width="3"/><path d="M64 44v40" stroke="#eaf5ff" stroke-width="2.5"/><path d="M46 51h11m-11 8h11m17-8h11m-11 8h11" stroke="#93d9ff" stroke-width="2.2" stroke-linecap="round"/>
+</svg>

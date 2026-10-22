@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+<defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff4b0"/><stop offset=".28" stop-color="#e0b85c"/><stop offset=".55" stop-color="#8f5c21"/><stop offset=".78" stop-color="#ffdc80"/><stop offset="1" stop-color="#9b641f"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset=".35" stop-color="#8faec5"/><stop offset=".65" stop-color="#e8f4ff"/><stop offset="1" stop-color="#42566f"/></linearGradient>
+ <radialGradient id="gem" cx="30%" cy="22%" r="82%"><stop stop-color="#d8f5ff"/><stop offset=".42" stop-color="#4297d7"/><stop offset="1" stop-color="#07101e"/></radialGradient>
+ <filter id="glow" x="-55%" y="-55%" width="210%" height="210%"><feGaussianBlur stdDeviation="3.1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g filter="url(#glow)"><path d="M17 33 Q42 24 63 39 L63 105 Q41 89 17 99Z" fill="#173b55" stroke="url(#gold)" stroke-width="3.2"/><path d="M111 33 Q86 24 65 39 L65 105 Q87 89 111 99Z" fill="#122b46" stroke="url(#gold)" stroke-width="3.2"/><path d="M25 43 Q43 37 56 47 M25 53 Q43 47 56 57 M25 63 Q43 57 56 67 M25 73 Q43 67 56 77 M72 47 Q87 37 103 43 M72 57 Q87 47 103 53 M72 67 Q87 57 103 63 M72 77 Q87 67 103 73" stroke="#c4eaff" stroke-width="2" stroke-linecap="round"/><path d="M64 39v66" stroke="#f7db8b" stroke-width="3"/><path d="M62 20 66 14 70 20 66 27Z" fill="url(#gold)"/></g>
+</svg>
