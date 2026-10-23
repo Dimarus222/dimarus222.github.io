@@ -1,46 +1,21 @@
-HAPPY-pedia — SEO + lightweight terminal-start screen package
+ВНИМАНИЕ: ЭТО ТОЛЬКО ДЛЯ РЕПОЗИТОРИЯ dimarus222.github.io.
+Не распаковывай этот архив в репозиторий ZlKonstantin.
+Основной сайт HAPPY-pedia должен находиться в репозитории ZlKonstantin.
 
-Files
-- index.html — current optimized interactive site, SEO metadata, structured data and small terminal-style startup overlay.
-- assets/ — source site artwork and icons. No existing image was re-encoded or reduced.
-- assets/happy-pedia-social-preview.png — Open Graph/Twitter share preview.
-- guide/ — crawlable, human-readable landing pages for farm, PTS calculator, pets, weapons, jewelry, each sphere type and updates.
-- robots.txt — allows normal crawling and points crawlers to sitemap.xml.
-- sitemap.xml — lists the homepage and guide pages.
-- yandex_3d9245927726bdb6.html — exact HTML verification file from Yandex Webmaster; keep it unchanged at the published root.
-- .nojekyll — asks GitHub Pages to publish this as a static site without Jekyll processing.
+В корневом репозитории dimarus222.github.io должны остаться только эти файлы:
+- index.html (мгновенный переход на /ZlKonstantin/)
+- yandex_3d9245927726bdb6.html (файл подтверждения Яндекса, точный токен)
+- robots.txt (указывает на sitemap основного проекта)
+- README.txt (можно оставить, он не является страницей сайта)
 
-Publish
-1. Unzip the archive.
-2. Upload/commit index.html, yandex_3d9245927726bdb6.html, .nojekyll, robots.txt, sitemap.xml, the entire assets/ directory and entire guide/ directory to the repository's published root. Keep directory names intact.
-3. The canonical URL and sitemap currently target the URL in the supplied PageSpeed report:
-   https://dimarus222.github.io/ZlKonstantin/
-   If the actual public site is a GitVerse Pages domain instead, update this base URL in canonical/og:url/json-ld metadata, guide-page metadata, robots.txt and sitemap.xml before publishing. Do not leave two active hosts declaring each other as canonical by accident.
-4. GitHub Pages project-site caveat: the standard robots.txt URL is at the host root (https://dimarus222.github.io/robots.txt), not under /ZlKonstantin/. The robots.txt in this package is useful as a project-root reference but may not be the host-level robots file crawlers use. Submit the project sitemap directly in Google Search Console and Yandex Webmaster. To publish a host-level robots.txt, the account-level Pages repository would need to be updated separately.
-5. In Google Search Console, add the exact URL-prefix property, verify ownership, submit https://dimarus222.github.io/ZlKonstantin/sitemap.xml, then inspect the homepage and request indexing. Add the same site in Yandex Webmaster and submit its sitemap.
-6. After publication, check that /sitemap.xml, /guide/ and one category page return HTTP 200. Re-run PageSpeed on the published URL.
+Как восстановить, если сюда по ошибке залили основной сайт:
+1. В GitHub Desktop выбери Repository -> Show in Explorer.
+2. Открой локальную папку репозитория dimarus222.github.io.
+3. Удали из неё старые видимые файлы и папки (assets, guide, sitemap.xml и прочие), НО НЕ УДАЛЯЙ скрытую папку .git.
+4. Распакуй содержимое этого архива прямо в корень этой папки.
+5. В GitHub Desktop проверь изменения: удаления старых файлов и добавление/изменение четырёх файлов.
+6. Commit to main -> Push origin.
+7. Проверь https://dimarus222.github.io/ — должно перенаправлять на https://dimarus222.github.io/ZlKonstantin/.
+8. Проверь https://dimarus222.github.io/yandex_3d9245927726bdb6.html — должен отображаться точный текст Verification: 3d9245927726bdb6.
 
-About the terminal start screen
-- It fades out after the inline interface has initialized (DOMContentLoaded) or after a 6.5-second safety timeout.
-- It does not wait for Google Sheets. The sheet synchronization remains asynchronous so a slow third-party request cannot hold the entire page behind the loader.
-- The overlay is a presentation effect, not a performance fix by itself. Keeping it short avoids deliberately waiting for every non-critical resource.
-
-SEO notes
-- The landing pages are intended as useful content, not hidden keyword pages. They link into the interactive site and have unique titles/descriptions, canonical URLs, Open Graph metadata and structured WebPage/BreadcrumbList data.
-- Search engines decide when/if to crawl and index pages. No metadata or sitemap can guarantee immediate ranking.
-
-Yandex verification
-- After publishing, open https://dimarus222.github.io/ZlKonstantin/yandex_3d9245927726bdb6.html and confirm it returns the exact text “Verification: 3d9245927726bdb6”.
-- Then return to Yandex Webmaster and click Verify. The confirmation file intentionally contains only the exact markup requested by Yandex; do not add scripts, styles or other metadata to that file.
-
-SEO integrity
-- No SEO-only navigation hidden from ordinary visitors is embedded in the main page. Category landing pages remain listed in sitemap.xml and cross-link through normal, human-visible links on those pages. The visible copyright notice remains unchanged.
-
-
-Project team/about-page addition (2026-10-23)
-- guide/about-project/index.html is a crawlable information page describing the HAPPY-pedia project, its founder, developer/promotion specialist, support streamer, and official public profile links.
-- Homepage metadata and JSON-LD identify the project and these roles; the homepage visible body was not changed.
-- guide/index.html links to the page as a normal visible link. sitemap.xml includes the page. robots.txt allows YandexAdditionalBot.
-- Search engines and Alice AI decide independently whether to cite the page; these changes improve discoverability but cannot force an exact answer for every query.
-
-SEO architecture: the root URL is the canonical/indexable entry point. Guide URLs are retained for compatibility but marked noindex,follow and canonicalized to the root. Section navigation remains on the root page via #section-* anchors.
+Для обновления основного сайта распаковывай полный SEO-архив ТОЛЬКО в локальный репозиторий ZlKonstantin.

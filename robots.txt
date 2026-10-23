@@ -1,9 +1,3 @@
-User-agent: Yandex
-Allow: /
-
-User-agent: YandexAdditionalBot
-Allow: /
-
 User-agent: *
 Allow: /
 
