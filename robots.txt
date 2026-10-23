@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /ZlKonstantin/guide/
+Allow: /
 
 Sitemap: https://dimarus222.github.io/ZlKonstantin/sitemap.xml
