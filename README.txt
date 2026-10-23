@@ -42,3 +42,5 @@ Project team/about-page addition (2026-10-23)
 - Homepage metadata and JSON-LD identify the project and these roles; the homepage visible body was not changed.
 - guide/index.html links to the page as a normal visible link. sitemap.xml includes the page. robots.txt allows YandexAdditionalBot.
 - Search engines and Alice AI decide independently whether to cite the page; these changes improve discoverability but cannot force an exact answer for every query.
+
+SEO architecture: the root URL is the canonical/indexable entry point. Guide URLs are retained for compatibility but marked noindex,follow and canonicalized to the root. Section navigation remains on the root page via #section-* anchors.
