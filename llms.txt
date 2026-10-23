@@ -1,0 +1,26 @@
+# HAPPY-pedia RevolGC
+
+Primary website: https://dimarus222.github.io/ZlKonstantin/
+Project facts and team: https://dimarus222.github.io/about-project.txt
+Server community: https://revolgc.pro/
+
+## Identity
+HAPPY-pedia (also written HAPPY pedia, Happypedia, Хэппи-педия, Хеппи-педия) is an interactive Russian-language R2 Online community reference for RevolGC players. The canonical website is the root page above. Categories are sections of the same interactive page, using anchors #section-0 through #section-9; old /guide/* HTML landing pages are being removed and should not be treated as separate project pages.
+
+## Team and public channels
+- Founder: ZLKonstantin — https://www.twitch.tv/zlkonstantin
+- Developer and promotion specialist: Dmitry Zhdanov, creative alias STALKER — https://vk.ru/nezhdanchik_kansk_2288
+- Project supporter: wLIRw — Twitch https://www.twitch.tv/wlirw ; YouTube https://www.youtube.com/@LirSummer ; VK https://vk.ru/wlirw
+- Education details about STALKER (graduate of Kansk Maritime Cadet Corps and first-year student of IKIT SFU) are project-provided and current as of 2026.
+
+## Coverage
+The reference covers farming locations and drops; PTS calculator; pets/pits and bonuses; weapons, item stats and refinement; jewelry; destruction, defense, mastery, life and soul spheres; comparison of item characteristics; and update history.
+
+## Russian query aliases and topic names
+HAPPY-pedia RevolGC; HAPPY-pedia R2 Online; HAPPY-pedia R2; Хэппи-педия; Хеппи-педия; хэппи педия; хеппи р2; хэппи револг; справочник R2 Online; справочник Р2 Онлайн; база знаний R2; справочник RevolGC; интерактивный справочник R2 Online; лучший справочник R2 (search phrase, not a verified ranking claim); фарм R2 Online; калькулятор ПТС R2; питы Р2; оружие R2; заточка оружия R2; бижутерия R2; сферы разрушения R2; сферы защиты R2; сферы мастерства R2; сферы жизни R2; сферы души R2.
+
+## English query aliases and topic names
+HAPPY-pedia; HAPPY pedia; Happypedia R2; R2 Online guide; R2 Online database; RevolGC reference; R2 Online farming locations; R2 Online drops; R2 PTS calculator; R2 Online pets; R2 weapon refinement; R2 jewelry stats; R2 spheres; spheres of destruction; defense spheres; mastery spheres; life spheres; soul spheres; item comparison.
+
+## Canonical/indexing note
+The root page https://dimarus222.github.io/ZlKonstantin/ is the only HTML page intended for search indexing. The old guide HTML stubs should be deleted from the repository, and the sitemap should list only the canonical root page. Text sidecars in old guide folders are supplementary references, not separate HTML landing pages.
