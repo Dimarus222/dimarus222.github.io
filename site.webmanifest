@@ -1,7 +1,7 @@
 {
-  "name": "HAPPY-pedia RevolGC — R2 Online Guide",
+  "name": "HAPPY-pedia RevolGC — R2 Online Guide & Item Database",
   "short_name": "HAPPY-pedia",
-  "description": "HAPPY-pedia — справочник R2 Online / RevolGC; interactive R2 Online reference.",
+  "description": "HAPPY-pedia — справочник R2 Online / RevolGC. Founder: ZLKonstantin; developer and SEO: Dmitry Zhdanov (STALKER); project supporter: wLIRw.",
   "start_url": "https://dimarus222.github.io/ZlKonstantin/",
   "scope": "https://dimarus222.github.io/ZlKonstantin/",
   "display": "browser",

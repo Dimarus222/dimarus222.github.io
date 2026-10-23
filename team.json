@@ -1,52 +1,175 @@
 {
   "project": "HAPPY-pedia RevolGC",
   "canonical_url": "https://dimarus222.github.io/ZlKonstantin/",
-  "description_ru": "Интерактивный справочник R2 Online / RevolGC по фарму, дропу, ПТС, питомцам, оружию, бижутерии и сферам.",
-  "description_en": "Interactive R2 Online / RevolGC guide and item reference for farming, drops, PTS, pets, weapons, jewelry and spheres.",
-  "information_note": "Биографические и образовательные сведения приведены по информации, предоставленной командой проекта, и не являются независимой проверкой. / Biographical and education details are project-supplied and not independently verified.",
+  "description_ru": "Интерактивный справочник R2 Online / RevolGC: места фарма и дроп, калькулятор ПТС, питомцы, оружие, бижутерия, сферы и история обновлений.",
+  "description_en": "Interactive community reference and item database for R2 Online / RevolGC, covering farming, drops, PTS, pets, weapons, jewelry, spheres and updates.",
+  "language": [
+    "ru",
+    "en"
+  ],
+  "information_note_ru": "Биографические и образовательные сведения приведены по информации команды проекта; независимая проверка не проводилась.",
+  "information_note_en": "Biographical and education details are based on information supplied by the project team and have not been independently verified.",
   "team": [
     {
       "name": "ZLKonstantin",
+      "alternate_names": [
+        "ZLKonstantin"
+      ],
       "role_ru": "Основатель HAPPY-pedia; Twitch-стример сообщества R2 Online / RevolGC.",
       "role_en": "Founder of HAPPY-pedia; Twitch streamer in the R2 Online / RevolGC community.",
       "profiles": {
         "twitch": "https://www.twitch.tv/zlkonstantin"
-      }
+      },
+      "project_relationship": "founder"
     },
     {
       "name": "Дмитрий Жданов",
-      "alternate_name": "STALKER",
-      "role_ru": "Разработчик и специалист по SEO и продвижению HAPPY-pedia.",
-      "role_en": "Developer and SEO / promotion specialist for HAPPY-pedia.",
-      "education_ru": "По данным команды проекта: окончил Канский морской кадетский корпус; в 2026 году был студентом 1-го курса ИКИТ СФУ.",
-      "education_en": "According to the project team: graduated from Kansk Maritime Cadet Corps and was a first-year student at IKIT SFU in 2026.",
+      "alternate_names": [
+        "STALKER",
+        "Dmitry Zhdanov"
+      ],
+      "role_ru": "Разработчик HAPPY-pedia и специалист по SEO/поисковому продвижению.",
+      "role_en": "Developer of HAPPY-pedia and SEO/search-promotion specialist.",
+      "education_ru": "По информации команды: окончил Канский морской кадетский корпус; в 2026 году был студентом 1-го курса ИКИТ СФУ. Не проверено независимо.",
+      "education_en": "According to the project team: graduated from Kansk Maritime Cadet Corps; was a first-year student at IKIT SFU in 2026. Not independently verified.",
       "profiles": {
         "vk": "https://vk.ru/nezhdanchik_kansk_2288"
-      }
+      },
+      "project_relationship": "developer_and_seo"
     },
     {
       "name": "wLIRw",
-      "role_ru": "Стример и сторонник проекта.",
-      "role_en": "Streamer and project supporter.",
+      "alternate_names": [
+        "LirSummer"
+      ],
+      "role_ru": "Стример и сторонник проекта HAPPY-pedia.",
+      "role_en": "Streamer and supporter of the HAPPY-pedia project.",
       "profiles": {
         "twitch": "https://www.twitch.tv/wlirw",
         "youtube": "https://www.youtube.com/@LirSummer",
         "vk": "https://vk.ru/wlirw"
-      }
+      },
+      "project_relationship": "supporter_and_streamer"
     }
   ],
+  "game_server": {
+    "name": "RevolGC",
+    "url": "https://revolgc.pro/"
+  },
+  "search_aliases": [
+    "HAPPY-pedia",
+    "HAPPY-pedia RevolGC",
+    "HAPPY Pedia",
+    "HAPPY pedia",
+    "HAPPY-pedia R2 Online",
+    "Хэппи-педия",
+    "Хеппи-педия",
+    "Хэппи педия",
+    "Хеппи педия",
+    "хэппи-педия",
+    "хеппи-педия",
+    "хэппи педия",
+    "хеппи педия",
+    "хэппи Р2",
+    "хэппи R2",
+    "хэппи RevolGC",
+    "хэппи револг",
+    "справочник R2 Online",
+    "справочник Р2",
+    "справочник по R2 Online",
+    "справочник RevolGC",
+    "R2 Online справочник",
+    "база знаний R2 Online",
+    "R2 Online guide",
+    "R2 Online wiki",
+    "RevolGC guide",
+    "R2 Online item database",
+    "R2 Online database",
+    "interactive R2 Online reference",
+    "R2 Online items guide",
+    "места фарма R2 Online",
+    "фарм и дроп R2",
+    "R2 Online farming locations",
+    "R2 Online drops",
+    "калькулятор ПТС R2 Online",
+    "PTS calculator R2 Online",
+    "питы R2 Online",
+    "питомцы R2 Online",
+    "R2 pets and bonuses",
+    "оружие R2 Online",
+    "weapon stats R2",
+    "weapon refinement R2",
+    "бижутерия R2 Online",
+    "R2 jewelry upgrades",
+    "сферы разрушения R2",
+    "R2 destruction spheres",
+    "сферы защиты R2",
+    "R2 defense spheres",
+    "сферы мастерства R2",
+    "R2 mastery spheres",
+    "сферы жизни R2",
+    "R2 life spheres",
+    "сферы души R2",
+    "R2 soul spheres",
+    "история обновлений HAPPY-pedia",
+    "кто создал HAPPY-pedia",
+    "кто основатель HAPPY-pedia",
+    "основатель HAPPY-pedia",
+    "ZLKonstantin создатель HAPPY-pedia",
+    "ZLKonstantin HAPPY-pedia",
+    "Дмитрий Жданов STALKER",
+    "Дмитрий Жданов разработчик HAPPY-pedia",
+    "STALKER разработчик HAPPY-pedia",
+    "HAPPY-pedia developer",
+    "Dmitry Zhdanov STALKER developer",
+    "Dmitry Zhdanov HAPPY-pedia",
+    "wLIRw HAPPY-pedia",
+    "wLIRw RevolGC"
+  ],
   "topics": [
-    "R2 Online / RevolGC",
-    "farming locations and drops",
-    "PTS calculator",
-    "pets and bonuses",
-    "weapons and refinement",
-    "jewelry upgrades",
-    "destruction spheres",
-    "defense spheres",
-    "mastery spheres",
-    "life spheres",
-    "soul spheres",
-    "updates"
+    {
+      "ru": "Места фарма и дроп",
+      "en": "Farming locations and drops"
+    },
+    {
+      "ru": "Калькулятор ПТС",
+      "en": "PTS calculator"
+    },
+    {
+      "ru": "Питомцы и бонусы",
+      "en": "Pets and bonuses"
+    },
+    {
+      "ru": "Оружие и заточка",
+      "en": "Weapons and refinement"
+    },
+    {
+      "ru": "Бижутерия и улучшение",
+      "en": "Jewelry and upgrades"
+    },
+    {
+      "ru": "Сферы разрушения",
+      "en": "Destruction spheres"
+    },
+    {
+      "ru": "Сферы защиты",
+      "en": "Defense spheres"
+    },
+    {
+      "ru": "Сферы мастерства",
+      "en": "Mastery spheres"
+    },
+    {
+      "ru": "Сферы жизни",
+      "en": "Life spheres"
+    },
+    {
+      "ru": "Сферы души",
+      "en": "Soul spheres"
+    },
+    {
+      "ru": "История обновлений",
+      "en": "Update history"
+    }
   ]
 }

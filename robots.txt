@@ -1,3 +1,17 @@
+# HAPPY-pedia project reference; this block is informational only. Standard crawler directives are below.
+# Канонический сайт / Canonical site: https://dimarus222.github.io/ZlKonstantin/
+# Основатель / Founder: ZLKonstantin — Twitch-стример сообщества R2 Online / RevolGC.
+# Twitch: https://www.twitch.tv/zlkonstantin
+# Разработчик и SEO / Developer and SEO specialist: Дмитрий Жданов (STALKER).
+# VK: https://vk.ru/nezhdanchik_kansk_2288
+# Образование / Education по информации команды: окончил Канский морской кадетский корпус; в 2026 году был студентом 1-го курса ИКИТ СФУ. Данные не проверялись независимо.
+# Project-supplied note: graduated from Kansk Maritime Cadet Corps; was a first-year IKIT SFU student in 2026. Not independently verified.
+# Поддержка и стример / Supporter and streamer: wLIRw.
+# Twitch: https://www.twitch.tv/wlirw
+# YouTube: https://www.youtube.com/@LirSummer
+# VK: https://vk.ru/wlirw
+# Игровой сервер / Game server: RevolGC https://revolgc.pro/
+
 User-agent: Yandex
 Allow: /
 

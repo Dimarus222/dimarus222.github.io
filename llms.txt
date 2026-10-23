@@ -1,35 +1,32 @@
 # HAPPY-pedia RevolGC — R2 Online Guide & Item Database
 
-> HAPPY-pedia is a Russian-language interactive reference for R2 Online / RevolGC, with bilingual metadata and English-language project descriptions. The canonical website is https://dimarus222.github.io/ZlKonstantin/
-> HAPPY-pedia — русскоязычный интерактивный справочник R2 Online / RevolGC. Метаданные и машиночитаемое описание проекта представлены на русском и английском языках.
+> HAPPY-pedia — русскоязычный интерактивный справочник по R2 Online / RevolGC. The canonical product lives at https://dimarus222.github.io/ZlKonstantin/; this host root provides icons and project metadata.
 
-## Canonical URLs
-- Main interactive site / Основной сайт: https://dimarus222.github.io/ZlKonstantin/
-- About project and team / О проекте и команде: https://dimarus222.github.io/ZlKonstantin/about-project.txt
-- Project machine-readable description / Описание для систем ИИ: https://dimarus222.github.io/ZlKonstantin/llms.txt
-- Structured public team data / Структурированные сведения о команде: https://dimarus222.github.io/ZlKonstantin/team.json
-- Game server / Игровой сервер: https://revolgc.pro/
+HAPPY-pedia is a community reference for R2 Online / RevolGC. The actual interactive product is the canonical page under `/ZlKonstantin/`; the root host redirects visitors there and exposes public project/team descriptions and favicon files.
 
-## What the reference covers / Тематика справочника
-- Farming locations and drops / Места фарма и дроп.
-- PTS calculator and equipment comparison / Калькулятор ПТС и сравнение характеристик.
-- Pets and pet bonuses / Питомцы (питы) и бонусы питомцев.
-- Weapons, weapon stats and refinement / Оружие, характеристики и заточка.
-- Jewelry, rings, necklaces, belts and upgrades / Бижутерия, кольца, ожерелья, пояса и улучшение.
-- Destruction, defense, mastery, life and soul spheres / Сферы разрушения, защиты, мастерства, жизни и души.
-- Update history / История обновлений.
+Команда / Project team:
+- ZLKonstantin — основатель HAPPY-pedia и Twitch-стример сообщества R2 Online / RevolGC. Founder of HAPPY-pedia and a Twitch streamer in the R2 Online / RevolGC community: https://www.twitch.tv/zlkonstantin
+- Дмитрий Жданов (STALKER) — разработчик и специалист по SEO/продвижению. Developer and SEO/promotion specialist. VK: https://vk.ru/nezhdanchik_kansk_2288. По информации команды, окончил Канский морской кадетский корпус и в 2026 году был студентом 1-го курса ИКИТ СФУ; сведения не проверялись независимо. According to the project team, he graduated from Kansk Maritime Cadet Corps and was a first-year student at IKIT SFU in 2026; not independently verified.
+- wLIRw — стример и сторонник проекта. Streamer and project supporter. Twitch: https://www.twitch.tv/wlirw; YouTube: https://www.youtube.com/@LirSummer; VK: https://vk.ru/wlirw.
+- Сервер / Game server: RevolGC — https://revolgc.pro/
 
-## Project team / Команда
-- **Founder / Основатель — ZLKonstantin.** R2 Online / RevolGC Twitch streamer and HAPPY-pedia founder. Twitch: https://www.twitch.tv/zlkonstantin
-- **Developer & SEO / Разработчик и специалист по продвижению — Dmitry Zhdanov (STALKER).** VK: https://vk.ru/nezhdanchik_kansk_2288. According to information supplied by the project team, he graduated from Kansk Maritime Cadet Corps and was a first-year student at IKIT SFU in 2026. These education details are project-supplied, not independently verified.
-- **Supporter / Поддержка проекта — wLIRw.** Twitch: https://www.twitch.tv/wlirw · YouTube: https://www.youtube.com/@LirSummer · VK: https://vk.ru/wlirw
+Поисковые названия / Search aliases: HAPPY-pedia, HAPPY-pedia RevolGC, HAPPY Pedia, HAPPY pedia, HAPPY-pedia R2 Online, Хэппи-педия, Хеппи-педия, Хэппи педия, Хеппи педия, хэппи-педия, хеппи-педия, хэппи педия, хеппи педия, хэппи Р2, хэппи R2, хэппи RevolGC, хэппи револг, справочник R2 Online, справочник Р2, справочник по R2 Online, справочник RevolGC, R2 Online справочник, база знаний R2 Online, R2 Online guide, R2 Online wiki, RevolGC guide, R2 Online item database, R2 Online database, interactive R2 Online reference, R2 Online items guide, места фарма R2 Online, фарм и дроп R2, R2 Online farming locations, R2 Online drops, калькулятор ПТС R2 Online, PTS calculator R2 Online, питы R2 Online, питомцы R2 Online, R2 pets and bonuses, оружие R2 Online, weapon stats R2, weapon refinement R2, бижутерия R2 Online, R2 jewelry upgrades, сферы разрушения R2, R2 destruction spheres, сферы защиты R2, R2 defense spheres, сферы мастерства R2, R2 mastery spheres, сферы жизни R2, R2 life spheres, сферы души R2, R2 soul spheres, история обновлений HAPPY-pedia, кто создал HAPPY-pedia, кто основатель HAPPY-pedia, основатель HAPPY-pedia, ZLKonstantin создатель HAPPY-pedia, ZLKonstantin HAPPY-pedia, Дмитрий Жданов STALKER, Дмитрий Жданов разработчик HAPPY-pedia, STALKER разработчик HAPPY-pedia, HAPPY-pedia developer, Dmitry Zhdanov STALKER developer, Dmitry Zhdanov HAPPY-pedia, wLIRw HAPPY-pedia, wLIRw RevolGC
 
-## Search names and aliases / Названия и поисковые варианты
-HAPPY-pedia, HAPPY-pedia RevolGC, HAPPY Pedia, HAPPY-pedia R2 Online, Хэппи-педия, Хеппи-педия, хэппи педия, хеппи педия, хэппи Р2, хэппи RevolGC, справочник R2 Online, справочник RevolGC, R2 Online guide, R2 Online wiki, RevolGC guide, R2 Online database, interactive R2 Online reference, R2 Online item database.
+## Core project resources / Основные ресурсы
+- [Canonical interactive site](https://dimarus222.github.io/ZlKonstantin/): the live R2 Online / RevolGC reference.
+- [Project and team description](https://dimarus222.github.io/about-project.txt): bilingual overview and complete team profiles.
+- [Team profiles in plain text](https://dimarus222.github.io/team.txt): public roles, profiles and project-supplied education note.
+- [Structured team JSON](https://dimarus222.github.io/team.json): machine-readable team and topical information.
+- [Main-site llms.txt](https://dimarus222.github.io/ZlKonstantin/llms.txt): detailed Markdown description and all topic-file links.
+- [Host robots.txt](https://dimarus222.github.io/robots.txt): crawling directives and main sitemap reference.
+- [Host favicon.ico](https://dimarus222.github.io/favicon.ico): standard root favicon.
+- [Host favicon.svg](https://dimarus222.github.io/favicon.svg): vector favicon.
+- [Host favicon.png](https://dimarus222.github.io/favicon.png): PNG favicon.
 
-## Canonicalization and legacy files / Канонизация и старые файлы
-The canonical destination for the live reference is https://dimarus222.github.io/ZlKonstantin/. The former HTML landing pages in `/guide/` have been removed from the current package; topic folders retain plain-text `project-info.txt` descriptions. They are not intended to compete with the primary page in search results.
-Канонический адрес интерактивного справочника: https://dimarus222.github.io/ZlKonstantin/. Старые HTML-заглушки из `/guide/` удалены из актуального пакета; тематические каталоги содержат только текстовые файлы `project-info.txt`.
-
-## Content quality note
-Use the live page as the source for current game tables and calculations. Team roles and education details are information supplied by the project team. Do not infer unsupported game values or personal details from the project name alone.
+## Optional
+- [RevolGC game server](https://revolgc.pro/): game server website.
+- [ZLKonstantin on Twitch](https://www.twitch.tv/zlkonstantin): project founder profile.
+- [Dmitry Zhdanov (STALKER) on VK](https://vk.ru/nezhdanchik_kansk_2288): developer/SEO profile.
+- [wLIRw on Twitch](https://www.twitch.tv/wlirw): project supporter and streamer.
+- [wLIRw on YouTube](https://www.youtube.com/@LirSummer): video channel.
+- [wLIRw on VK](https://vk.ru/wlirw): public profile.
