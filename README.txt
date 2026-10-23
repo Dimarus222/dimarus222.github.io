@@ -1,13 +1,13 @@
-HAPPY-pedia — ROOT HOST SUPPORT PACKAGE (repository: dimarus222.github.io)
+﻿HAPPY-pedia — ROOT HOST SUPPORT PACKAGE (repository: dimarus222.github.io)
 
 PURPOSE
-This package adds host-root favicon formats, bilingual public project/team descriptions, structured team JSON, a spec-shaped llms.txt and a Windows PowerShell installer that updates only the current root index.html <head> metadata and favicon links. It preserves the redirect to /ZlKonstantin/ and does not replace the root index.html.
+This package adds host-root favicon formats, bilingual public project/team descriptions, structured team JSON, a spec-shaped llms.txt and a Windows PowerShell 5.1-compatible installer (ASCII-only script source) that updates the current root index.html <head> metadata and favicon links. It preserves the redirect to /ZlKonstantin/ and does not replace the root index.html.
 
 INSTALL
 1. Extract this ZIP into the local root of repository dimarus222.github.io. Replace the included supporting files when prompted.
 2. Do NOT replace/delete root index.html or yandex_3d9245927726bdb6.html.
 3. Run from PowerShell: powershell -ExecutionPolicy Bypass -File .\install-root-favicon.ps1
-4. Inspect GitHub Desktop carefully. The script updates only <head> metadata, canonical/OG/Twitter tags, schema JSON-LD and favicon references; it preserves everything from </head> onward, including the existing redirect logic.
+4. Inspect GitHub Desktop carefully. The repaired script first creates a backup in the Windows TEMP folder. It updates only <head> metadata, canonical/OG/Twitter tags, schema JSON-LD and favicon references. A built-in safety check aborts before writing unless everything from </head> onward, including the existing redirect, remains unchanged.
 5. Commit and Push. Separately deploy the MAIN package to repository ZlKonstantin.
 
 FILES
@@ -43,3 +43,7 @@ HAPPY-pedia; HAPPY-pedia RevolGC; HAPPY Pedia; HAPPY-pedia R2 Online; Хэппи
 
 SEARCH/AI NOTE
 llms.txt is optional and not a ranking guarantee. The goal is to present consistent, verifiable project facts and links; do not use unsupported biographies or keyword stuffing. The canonical, crawlable main page and accurate attribution are more important than repeating phrases mechanically.
+
+
+SCRIPT COMPATIBILITY NOTE
+The installer is saved as UTF-8 with BOM and uses ASCII-only source text. Russian metadata values are represented with HTML entities or JSON Unicode escapes to avoid Windows PowerShell 5.1 source-encoding issues. The script must be run from the repository copy of this ZIP.
