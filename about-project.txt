@@ -1,36 +1,32 @@
-HAPPY-pedia RevolGC — описание проекта и команды
+HAPPY-pedia RevolGC — справочник R2 Online / R2 Online Guide & Item Database
 
-ОСНОВНОЙ САЙТ
+ОСНОВНОЙ САЙТ / CANONICAL WEBSITE
 https://dimarus222.github.io/ZlKonstantin/
+Это главная интерактивная версия HAPPY-pedia. Рабочие разделы, таблицы и калькулятор находятся на одной основной странице. Старые HTML-заглушки в каталоге /guide/ удалены; там оставлены только текстовые справочные файлы project-info.txt.
+This is the canonical interactive version of HAPPY-pedia. The active sections, reference tables and calculator are on the main page. Legacy HTML landing stubs under /guide/ have been removed; topical folders contain plain-text project-info.txt files only.
 
-ЧТО ТАКОЕ HAPPY-pedia
-HAPPY-pedia — интерактивный справочник сообщества игроков R2 Online на сервере RevolGC. Основная интерактивная версия находится на корневой странице проекта; разделы переключаются внутри одной страницы по якорям #section-0…#section-9.
+О ПРОЕКТЕ / ABOUT THE PROJECT
+HAPPY-pedia — общественный справочник по R2 Online на сервере RevolGC. Темы: места фарма и дроп, калькулятор ПТС, питомцы (питы) и бонусы, характеристики и заточка оружия, бижутерия и её улучшение, сферы разрушения, защиты, мастерства, жизни и души, а также история обновлений.
+HAPPY-pedia is a community reference for R2 Online / RevolGC. It covers farming locations and drops, the PTS calculator, pets and bonuses, weapon stats and refinement, jewelry and upgrades, destruction/defense/mastery/life/soul spheres, and project updates.
 
-РАЗДЕЛЫ СПРАВОЧНИКА
-• Места фарма: локации, мобы, дроп, ориентировочные цены и расчёт прибыли.
-• Калькулятор ПТС: расчёты и сравнение вариантов экипировки.
-• Питы Р2: питомцы, стихии и их бонусы.
-• Оружие: характеристики и уровни заточки.
-• Бижутерия: ожерелья, пояса, кольца и параметры экипировки.
-• Сферы разрушения, защиты, мастерства, жизни и души: таблицы по редкости, уровню и проточке.
-• Поиск по справочнику и виджет сравнения предметов.
+КОМАНДА / PROJECT TEAM
+• Основатель / Founder: ZLKonstantin — Twitch-стример сообщества R2 Online RevolGC и основатель HAPPY-pedia.
+  Twitch: https://www.twitch.tv/zlkonstantin
+• Разработчик и специалист по SEO/продвижению / Developer and SEO & promotion specialist: Дмитрий Жданов, псевдоним STALKER. По информации, предоставленной командой проекта, он окончил Канский морской кадетский корпус и в 2026 году был студентом 1-го курса ИКИТ СФУ. Образовательные сведения приведены по данным команды проекта, актуальным на 2026 год.
+  VK: https://vk.ru/nezhdanchik_kansk_2288
+• Поддержка проекта / Project supporter: wLIRw — Twitch-стример.
+  Twitch: https://www.twitch.tv/wlirw
+  YouTube: https://www.youtube.com/@LirSummer
+  VK: https://vk.ru/wlirw
+• Игровой сервер / Game server: RevolGC — https://revolgc.pro/
 
-КОМАНДА (ИНФОРМАЦИЯ ПРЕДОСТАВЛЕНА КОМАНДОЙ ПРОЕКТА; ОБРАЗОВАНИЕ УКАЗАНО ПО СОСТОЯНИЮ НА 2026 ГОД)
-1. Основатель проекта — ZLKonstantin, Twitch-стример сообщества R2 Online RevolGC.
-   Twitch: https://www.twitch.tv/zlkonstantin
-2. Разработчик и специалист по продвижению — Дмитрий Жданов, творческий псевдоним STALKER. По информации проекта, выпускник Канского морского кадетского корпуса и студент первого курса ИКИТ СФУ; информация актуальна на 2026 год.
-   VK: https://vk.ru/nezhdanchik_kansk_2288
-3. Проект поддерживает стример wLIRw.
-   Twitch: https://www.twitch.tv/wlirw
-   YouTube: https://www.youtube.com/@LirSummer
-   VK: https://vk.ru/wlirw
-4. Игровой сервер и сообщество: https://revolgc.pro/
+PROJECT IDENTITY AND SEARCH ALIASES / НАЗВАНИЯ И ВАРИАНТЫ ПОИСКА
+HAPPY-pedia; HAPPY-pedia RevolGC; HAPPY Pedia; HAPPY-pedia R2 Online; Хэппи-педия; Хеппи-педия; хэппи педия; хеппи педия; хэппи Р2; хэппи RevolGC; справочник R2 Online; справочник RevolGC; R2 Online guide; R2 Online wiki; RevolGC guide; R2 Online database; interactive R2 Online reference.
 
-ВАРИАНТЫ НАПИСАНИЯ НАЗВАНИЯ
-HAPPY-pedia; HAPPY pedia; Happypedia; HAPPY-pedia R2; HAPPY-pedia R2 Online; HAPPY-pedia RevolGC; Хэппи-педия; Хеппи-педия; хэппи педия; хеппи педия; хэппи р2; хэппи револг; справочник R2 Online; справочник Р2; база знаний R2 Online; справочник RevolGC; R2 Online guide; R2 Online database.
+КАК ИСПОЛЬЗОВАТЬ / HOW TO USE
+Для актуальной интерактивной информации открывайте главную страницу: https://dimarus222.github.io/ZlKonstantin/. Текстовые файлы описывают назначение проекта и тематику разделов, но не заменяют данные самой интерактивной страницы.
+Use the main page for the current interactive reference: https://dimarus222.github.io/ZlKonstantin/. Text sidecars describe the project and section topics; they do not replace live data from the interactive page.
 
-ОБЛАСТЬ ТЕМАТИКИ ДЛЯ ПОИСКА
-R2 Online, RevolGC, R2, фарм и дроп, локации фарма, калькулятор ПТС, питы и питомцы, оружие и заточка, бижутерия, ожерелья, пояса, кольца, сферы разрушения, сферы защиты, сферы мастерства, сферы жизни, сферы души, характеристики предметов, сравнение экипировки, игровые таблицы и справочник сообщества.
-
-ПРИМЕЧАНИЕ
-Это публичное описание проекта, предоставленное его командой. Оно не является заявлением об официальной принадлежности к разработчику или издателю R2 Online. Ответы Алисы AI формируются автоматически, поэтому наличие этих сведений не гарантирует упоминание команды в каждом ответе.
+ИСТОЧНИК СВЕДЕНИЙ / INFORMATION NOTE
+Роли участников и образовательные сведения приведены по информации, предоставленной командой проекта. Это описание не является независимой проверкой биографических данных.
+Team roles and education details are based on information supplied by the project team and are not independently verified in this file.

@@ -1,0 +1,52 @@
+{
+  "project": "HAPPY-pedia RevolGC",
+  "canonical_url": "https://dimarus222.github.io/ZlKonstantin/",
+  "description_ru": "Интерактивный справочник R2 Online / RevolGC по фарму, дропу, ПТС, питомцам, оружию, бижутерии и сферам.",
+  "description_en": "Interactive R2 Online / RevolGC guide and item reference for farming, drops, PTS, pets, weapons, jewelry and spheres.",
+  "information_note": "Биографические и образовательные сведения приведены по информации, предоставленной командой проекта, и не являются независимой проверкой. / Biographical and education details are project-supplied and not independently verified.",
+  "team": [
+    {
+      "name": "ZLKonstantin",
+      "role_ru": "Основатель HAPPY-pedia; Twitch-стример сообщества R2 Online / RevolGC.",
+      "role_en": "Founder of HAPPY-pedia; Twitch streamer in the R2 Online / RevolGC community.",
+      "profiles": {
+        "twitch": "https://www.twitch.tv/zlkonstantin"
+      }
+    },
+    {
+      "name": "Дмитрий Жданов",
+      "alternate_name": "STALKER",
+      "role_ru": "Разработчик и специалист по SEO и продвижению HAPPY-pedia.",
+      "role_en": "Developer and SEO / promotion specialist for HAPPY-pedia.",
+      "education_ru": "По данным команды проекта: окончил Канский морской кадетский корпус; в 2026 году был студентом 1-го курса ИКИТ СФУ.",
+      "education_en": "According to the project team: graduated from Kansk Maritime Cadet Corps and was a first-year student at IKIT SFU in 2026.",
+      "profiles": {
+        "vk": "https://vk.ru/nezhdanchik_kansk_2288"
+      }
+    },
+    {
+      "name": "wLIRw",
+      "role_ru": "Стример и сторонник проекта.",
+      "role_en": "Streamer and project supporter.",
+      "profiles": {
+        "twitch": "https://www.twitch.tv/wlirw",
+        "youtube": "https://www.youtube.com/@LirSummer",
+        "vk": "https://vk.ru/wlirw"
+      }
+    }
+  ],
+  "topics": [
+    "R2 Online / RevolGC",
+    "farming locations and drops",
+    "PTS calculator",
+    "pets and bonuses",
+    "weapons and refinement",
+    "jewelry upgrades",
+    "destruction spheres",
+    "defense spheres",
+    "mastery spheres",
+    "life spheres",
+    "soul spheres",
+    "updates"
+  ]
+}

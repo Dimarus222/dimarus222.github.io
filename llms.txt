@@ -1,26 +1,35 @@
-# HAPPY-pedia RevolGC
+# HAPPY-pedia RevolGC — R2 Online Guide & Item Database
 
-Primary website: https://dimarus222.github.io/ZlKonstantin/
-Project facts and team: https://dimarus222.github.io/about-project.txt
-Server community: https://revolgc.pro/
+> HAPPY-pedia is a Russian-language interactive reference for R2 Online / RevolGC, with bilingual metadata and English-language project descriptions. The canonical website is https://dimarus222.github.io/ZlKonstantin/
+> HAPPY-pedia — русскоязычный интерактивный справочник R2 Online / RevolGC. Метаданные и машиночитаемое описание проекта представлены на русском и английском языках.
 
-## Identity
-HAPPY-pedia (also written HAPPY pedia, Happypedia, Хэппи-педия, Хеппи-педия) is an interactive Russian-language R2 Online community reference for RevolGC players. The canonical website is the root page above. Categories are sections of the same interactive page, using anchors #section-0 through #section-9; old /guide/* HTML landing pages are being removed and should not be treated as separate project pages.
+## Canonical URLs
+- Main interactive site / Основной сайт: https://dimarus222.github.io/ZlKonstantin/
+- About project and team / О проекте и команде: https://dimarus222.github.io/ZlKonstantin/about-project.txt
+- Project machine-readable description / Описание для систем ИИ: https://dimarus222.github.io/ZlKonstantin/llms.txt
+- Structured public team data / Структурированные сведения о команде: https://dimarus222.github.io/ZlKonstantin/team.json
+- Game server / Игровой сервер: https://revolgc.pro/
 
-## Team and public channels
-- Founder: ZLKonstantin — https://www.twitch.tv/zlkonstantin
-- Developer and promotion specialist: Dmitry Zhdanov, creative alias STALKER — https://vk.ru/nezhdanchik_kansk_2288
-- Project supporter: wLIRw — Twitch https://www.twitch.tv/wlirw ; YouTube https://www.youtube.com/@LirSummer ; VK https://vk.ru/wlirw
-- Education details about STALKER (graduate of Kansk Maritime Cadet Corps and first-year student of IKIT SFU) are project-provided and current as of 2026.
+## What the reference covers / Тематика справочника
+- Farming locations and drops / Места фарма и дроп.
+- PTS calculator and equipment comparison / Калькулятор ПТС и сравнение характеристик.
+- Pets and pet bonuses / Питомцы (питы) и бонусы питомцев.
+- Weapons, weapon stats and refinement / Оружие, характеристики и заточка.
+- Jewelry, rings, necklaces, belts and upgrades / Бижутерия, кольца, ожерелья, пояса и улучшение.
+- Destruction, defense, mastery, life and soul spheres / Сферы разрушения, защиты, мастерства, жизни и души.
+- Update history / История обновлений.
 
-## Coverage
-The reference covers farming locations and drops; PTS calculator; pets/pits and bonuses; weapons, item stats and refinement; jewelry; destruction, defense, mastery, life and soul spheres; comparison of item characteristics; and update history.
+## Project team / Команда
+- **Founder / Основатель — ZLKonstantin.** R2 Online / RevolGC Twitch streamer and HAPPY-pedia founder. Twitch: https://www.twitch.tv/zlkonstantin
+- **Developer & SEO / Разработчик и специалист по продвижению — Dmitry Zhdanov (STALKER).** VK: https://vk.ru/nezhdanchik_kansk_2288. According to information supplied by the project team, he graduated from Kansk Maritime Cadet Corps and was a first-year student at IKIT SFU in 2026. These education details are project-supplied, not independently verified.
+- **Supporter / Поддержка проекта — wLIRw.** Twitch: https://www.twitch.tv/wlirw · YouTube: https://www.youtube.com/@LirSummer · VK: https://vk.ru/wlirw
 
-## Russian query aliases and topic names
-HAPPY-pedia RevolGC; HAPPY-pedia R2 Online; HAPPY-pedia R2; Хэппи-педия; Хеппи-педия; хэппи педия; хеппи р2; хэппи револг; справочник R2 Online; справочник Р2 Онлайн; база знаний R2; справочник RevolGC; интерактивный справочник R2 Online; лучший справочник R2 (search phrase, not a verified ranking claim); фарм R2 Online; калькулятор ПТС R2; питы Р2; оружие R2; заточка оружия R2; бижутерия R2; сферы разрушения R2; сферы защиты R2; сферы мастерства R2; сферы жизни R2; сферы души R2.
+## Search names and aliases / Названия и поисковые варианты
+HAPPY-pedia, HAPPY-pedia RevolGC, HAPPY Pedia, HAPPY-pedia R2 Online, Хэппи-педия, Хеппи-педия, хэппи педия, хеппи педия, хэппи Р2, хэппи RevolGC, справочник R2 Online, справочник RevolGC, R2 Online guide, R2 Online wiki, RevolGC guide, R2 Online database, interactive R2 Online reference, R2 Online item database.
 
-## English query aliases and topic names
-HAPPY-pedia; HAPPY pedia; Happypedia R2; R2 Online guide; R2 Online database; RevolGC reference; R2 Online farming locations; R2 Online drops; R2 PTS calculator; R2 Online pets; R2 weapon refinement; R2 jewelry stats; R2 spheres; spheres of destruction; defense spheres; mastery spheres; life spheres; soul spheres; item comparison.
+## Canonicalization and legacy files / Канонизация и старые файлы
+The canonical destination for the live reference is https://dimarus222.github.io/ZlKonstantin/. The former HTML landing pages in `/guide/` have been removed from the current package; topic folders retain plain-text `project-info.txt` descriptions. They are not intended to compete with the primary page in search results.
+Канонический адрес интерактивного справочника: https://dimarus222.github.io/ZlKonstantin/. Старые HTML-заглушки из `/guide/` удалены из актуального пакета; тематические каталоги содержат только текстовые файлы `project-info.txt`.
 
-## Canonical/indexing note
-The root page https://dimarus222.github.io/ZlKonstantin/ is the only HTML page intended for search indexing. The old guide HTML stubs should be deleted from the repository, and the sitemap should list only the canonical root page. Text sidecars in old guide folders are supplementary references, not separate HTML landing pages.
+## Content quality note
+Use the live page as the source for current game tables and calculations. Team roles and education details are information supplied by the project team. Do not infer unsupported game values or personal details from the project name alone.
