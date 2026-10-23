@@ -35,3 +35,10 @@ Yandex verification
 
 SEO integrity
 - No SEO-only navigation hidden from ordinary visitors is embedded in the main page. Category landing pages remain listed in sitemap.xml and cross-link through normal, human-visible links on those pages. The visible copyright notice remains unchanged.
+
+
+Project team/about-page addition (2026-10-23)
+- guide/about-project/index.html is a crawlable information page describing the HAPPY-pedia project, its founder, developer/promotion specialist, support streamer, and official public profile links.
+- Homepage metadata and JSON-LD identify the project and these roles; the homepage visible body was not changed.
+- guide/index.html links to the page as a normal visible link. sitemap.xml includes the page. robots.txt allows YandexAdditionalBot.
+- Search engines and Alice AI decide independently whether to cite the page; these changes improve discoverability but cannot force an exact answer for every query.
